@@ -46,7 +46,7 @@
 		}
 	}
 	
-	echo "Giỏ hàng";
+	echo "<h2>GIỎ HÀNG:</h2>";
 	echo "<br>";
 	echo "<br>";
 	if($gio_hang=="khong")

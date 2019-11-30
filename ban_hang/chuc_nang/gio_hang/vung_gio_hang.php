@@ -1,5 +1,4 @@
 <br>
-Giỏ hàng <br><br>
 
 <?php 
 	$so_luong=0;

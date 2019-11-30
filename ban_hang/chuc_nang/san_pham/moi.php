@@ -1,5 +1,5 @@
 <br><br>
-Sản phẩm mới <br><br>
+<h2><p>Sản phẩm mới:</p><h2> <br><br>
 <center>
 	<?php 
 		$tv="select id,ten,hinh_anh from san_pham order by id desc limit 0,3";

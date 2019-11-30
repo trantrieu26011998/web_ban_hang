@@ -1,5 +1,5 @@
 <br><br>
-Sản phẩm nổi bật <br><br>
+<h2><p>Sản phẩm nổi bật:</p></h2> <br><br>
 <center>
 	<?php 
 		$tv="select id,ten,hinh_anh from san_pham where noi_bat='co' order by id desc limit 0,3";

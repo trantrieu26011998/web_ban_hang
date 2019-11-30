@@ -27,14 +27,14 @@
 					<td colspan="3"><?php include("chuc_nang/banner/banner.php"); ?></td>
 				</tr>
 				<tr>
-					<td colspan="3" height="50px" >
+					<td colspan="3" height="50px" style="background-color: #CD853F" >
 						<?php
 							include("chuc_nang/menu_ngang/menu_ngang.php");
 						?> 
 					</td>
 				</tr>
 				<tr>
-					<td width="170px" valign="top" >
+					<td width="170px" valign="top" style="background-color: #7FFF00">
 					<?php 
 						//include("chuc_nang/menu_doc/menu_doc.php");
 						include("chuc_nang/san_pham/moi.php"); 
@@ -46,7 +46,7 @@
 							include("chuc_nang/dieu_huong.php");
 						?>
 					</td>
-					<td width="170px" valign="top" >
+					<td width="170px" valign="top" style="background-color: #7FFF00">
 					<?php 
 						include("chuc_nang/tim_kiem/vung_tim_kiem.php");
 						include("chuc_nang/gio_hang/vung_gio_hang.php"); 

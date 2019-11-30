@@ -1,4 +1,7 @@
-
+body
+{
+	background-color: #97FFFF;
+}
 a
 {
 	text-decoration: none;
@@ -39,4 +42,13 @@ div.phan_trang a
 div.phan_trang a:hover 
 {
 	color:red;
+}
+p
+{
+	color: red;
+	text-align: center;
+}
+h2
+{
+	text-align: center;
 }
